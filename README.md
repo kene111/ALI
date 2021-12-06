@@ -26,9 +26,9 @@ application use. The learning algorithms (AutoEncoder(s)) are trained on the dat
 
 
 ### How to run application:
-1) clone the repository
+1) Clone the repository
 2) On the local repository create and activate a virtual enviroment
-3) install the required libraries from the requirements.txt   --> pip install -r requirements.txt 
+3) Install the required libraries from the requirements.txt   --> pip install -r requirements.txt 
 4) On the cli run: python main.py
 
 
@@ -38,9 +38,5 @@ More updates will be made in other to fix current issues and optimize applicatio
 
 
 
-
-
-
-[rcnn.py](https://drive.google.com/file/d/1YNlQWaL1a0UHPEHCXPASzTyORGy6a4HM/view?usp=sharing) file.
 
 
