@@ -31,6 +31,29 @@ application usage. The learning algorithms (AutoEncoder(s)) are trained on the p
 3) Install the required libraries from the requirements.txt   --> pip install -r requirements.txt 
 4) On the cli run: python main.py
 
+### Tools
+- Python Programming Language
+- PyQT5 & QT designer
+- Keras
+
+
+### Repositority Breakdown:
+
+##### Folders:
+
+- continuous_collection_scripts: This folder contains the scripts that run hourly collecting data.
+- data_storage: This folder contains the temporary data collected.
+- initial_collection_scripts: This folder contains the scripts that collect data for the specified number of days.
+- models :  This folder contains the saved the models after training has been done.
+- UI : This folder contains the designs built with QT designer.
+
+##### Scripts:
+- main.py: This python file runs the whole application when run from the cli
+- learning_script.py: This python file runs the code that processes the data and trains the model.
+- protection_script.py: This scripts runs the code that performs period authentication.
+- run_script.py : This script runs the scripts that collects the initial data in parallel.
+- run_script2.py : This script runs the scripts that continuously collect data in parallel.
+
 
 
 ### Future Plan:
