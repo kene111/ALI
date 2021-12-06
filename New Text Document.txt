@@ -1,0 +1,14 @@
+background-color:qlineargradient(spread:pad, x1:0, y1:1, x2:1, y2:0, stop:0 rgba(219, 228, 255, 255), stop:0.369318 rgba(196, 174, 192, 255));
+
+
+border-radius:20px;
+font: 25 12pt "Yu Mincho Light";
+background-color:rgb(141, 93, 170);color:rgb(255, 255, 255);
+
+
+border-radius:20px;
+background-color:rgb(170, 0, 255);
+color:rgb(255, 255, 255);
+
+
+One of the major limitations, that will be corrected future works was the inability to generate a sufficient amount of data, ranging from seven to fourteen days for the initial training, this will provided the learning algorithms more and valuable information to better identify users from outliers
