@@ -22,7 +22,7 @@ application usage. The learning algorithms (AutoEncoder(s)) are trained on the p
 
 ### Requirements to Run Desktop Application:
 1) Use a system running on Windows.
-2) To run the application make sure to have the python 3.6.x version.
+2) To run the application make sure to have a python 3.6.x version.
 
 
 ### How to run application:
