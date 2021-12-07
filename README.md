@@ -4,7 +4,7 @@
 
 Adaptive Learning Intelligence( A. L. I) is a security software that works as a continous user authenticator. It works as the second phase for laptop/desktop authentication, the 
 first being the passcode authentication phase. A.L.I authenticates users based on soft biometrics (behaviourial metrics) such as keystroke dynamics, mouse dynamics, and desktop
-application usage. The learning algorithms (AutoEncoder(s)) are trained on the preprocessed data generated and then put together to detect anomalies when users are interacting with the device.
+application usage. The learning algorithms (AutoEncoder(s)) are trained on the preprocessed data generated and then put together to detect anomalies when users are interacting with the device. When patterns that do not match the already learned pattern are detected, the software locks the system.
 
 
 ### Simple User Interface
