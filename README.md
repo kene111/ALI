@@ -57,8 +57,15 @@ application usage. The learning algorithms (AutoEncoder(s)) are trained on the p
 
 
 ### Future Plan:
-More updates will be made in other to fix current issues and optimize application flow.
 
+##### Fixes:
+- Fix the deactivate functionality.
+
+##### Upgrades:
+- Use a better data storing method.
+- Optimize the code for better user experience.
+- Add more features to help to distiguish original user from other users.
+- Add more cognitive features
 
 
 
