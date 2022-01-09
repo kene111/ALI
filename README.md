@@ -65,7 +65,7 @@ application usage. The learning algorithms (AutoEncoder(s)) are trained on the p
 - Use a better data storing method.
 - Optimize the code for better user experience.
 - Add more features to help to distiguish original user from other users.
-- Add more cognitive features
+- Add more cognitive abilities.
 
 
 
