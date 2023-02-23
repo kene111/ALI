@@ -50,7 +50,7 @@ application usage. The learning algorithms (AutoEncoder(s)) are trained on the p
 ##### Scripts:
 - main.py: This python file runs the whole application when run from the cli
 - learning_script.py: This python file runs the code that processes the data and trains the model.
-- protection_script.py: This scripts runs the code that performs period authentication.
+- protection_script.py: This scripts runs the code that performs periodic authentication.
 - run_script.py : This script runs the scripts that collects the initial data in parallel.
 - run_script2.py : This script runs the scripts that continuously collect data in parallel.
 
